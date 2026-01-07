@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@azure/cosmos": "^4.9.0",
+    "@azure/storage-blob": "^12.29.1"
+  }
+}
